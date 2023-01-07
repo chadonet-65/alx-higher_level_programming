@@ -2,10 +2,8 @@
 # Author - tibaut
 
 def element_at(my_list, idx):
-    x = len(my_list)
-    if idx > x:
-        return 0
-    elif idx < 0:
-        return 0
+    x = len(my_list) - 1
+    if idx > x or idx < 0:
+        return 'None'
     else:
-        print("Elemet at index {:d} is {}".format(idx, my_list[idx]))
+        return my_list[idx]
