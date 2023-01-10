@@ -11,5 +11,5 @@ def add(arr):
 
         print(total)
 
-if __name__=='__main__':
+if (__name__ == '__main__'):
     add(argv[1:])

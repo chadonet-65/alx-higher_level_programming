@@ -12,5 +12,5 @@ def dynamic(arr):
         for (i, item) in enumerate(arr, start=1)):
             print(f"{i}: {item}")
 
-if __name__ == '__main__':
+if (__name__ == '__main__'):
     dynamic(argv[1:])
