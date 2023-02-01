@@ -3,7 +3,6 @@
 """
 
 
-
 class Rectangle:
     """At this stage the class only creates private instance attributes by
     talking in two argulents.
