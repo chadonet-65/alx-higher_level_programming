@@ -35,8 +35,8 @@ class Rectangle:
                __width (int): horizontal dimension a rectangle
 
         Raises:
-             TypeError : If `value`is not an int
-             ValueError: If `value`is len than 0.
+             TypeError : If `value` is not an int
+             ValueError: If `value` is len than 0.
 
         """
         if type(value) is not int:
