@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-"""2-rectangle, built for alx python project 0x08 task 2."""
+"""2-rectangle, built for alx python project 0x08 task 2.
+"""
+
+
 
 class Rectangle:
     """ At this stage class only creates private instance attribute bay 
