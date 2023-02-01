@@ -2,6 +2,8 @@
 """1-rectangle, built for alx python project 0x08 task 1.
 """
 
+
+
 class Rectangle:
     """At this stage the class only creates private instance attributes by
     talking in two argulents.
