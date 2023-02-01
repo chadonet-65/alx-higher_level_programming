@@ -3,7 +3,6 @@
 """
 
 
-
 class Rectangle:
     """ At this stage class only creates private instance attribute bay 
     talking in two arguments.
