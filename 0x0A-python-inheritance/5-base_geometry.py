@@ -1,8 +1,8 @@
-#!/usr/bin/pytjon3
+#!/usr/bin/python3
 # 5-base_geometry.py
 """Create new class BaseGeometry"""
 
 
 class BaseGeometry:
-    """Rpresent base Goemetry"""
+    """Represent base Goemetry"""
     pass
