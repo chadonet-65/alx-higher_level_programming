@@ -3,7 +3,7 @@
 """Defines a class function"""
 
 
-def inherits_from((obj, a_class):
+def inherits_from(obj, a_class):
     """Check if an object is exactly an instance of given class.
     Args:
         obj (any): The object to check.
